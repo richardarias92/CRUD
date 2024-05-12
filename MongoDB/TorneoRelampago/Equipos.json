@@ -1,0 +1,42 @@
+[
+  {
+    "_id": 1,
+    "Nombre_equipo": "Lanceros",
+    "Nombre_Entrenador": "Antonio Garzón"
+  },
+  {
+    "_id": 2,
+    "Nombre_equipo": "Los del barrio",
+    "Nombre_Entrenador ": "Felipe Correjas"
+  },
+  {
+    "_id": 3,
+    "Nombre_equipo": "Los de siempre",
+    "Nombre_Entrenador": "Jaime Rojas"
+  },
+  {
+    "_id": 4,
+    "Nombre_equipo": "Simpsons",
+    "Nombre_Entrenador": "Victor González"
+  },
+  {
+    "_id": 5,
+    "Nombre_equipo": "Los del Norte",
+    "Nombre_Entrenador": "Reinaldo Tapia"
+  },
+  {
+    "_id": 6,
+    "Nombre_equipo": "Servilujos",
+    "Nombre_Entrenador": "Larris Gamero"
+  },
+  {
+    "_id": 7,
+    "Nombre_equipo": "Green Star",
+    "Nombre_Entrenador": "Luis Ortega"
+  },
+  {
+    "_id": 8,
+    "Nombre_equipo": "TLCR",
+    "Nombre_Entrenador": "Andrés Ramírez"
+  }
+]

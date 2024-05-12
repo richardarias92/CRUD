@@ -1,0 +1,82 @@
+[
+  {
+    "_id": 1,
+    "Posición": 1,
+    "Nombre": "TLCR",
+    "Partidos jugados": 3,
+    "Goles a favor": 19,
+    "Goles en contra": 9,
+    "Diferencia de goles": 10,
+    "Puntos": 9
+  },
+  {
+    "_id": 2,
+    "Posición": 2,
+    "Nombre": "Los del barrio",
+    "Partidos jugados": 3,
+    "Goles a favor": 14,
+    "Goles en contra": 13,
+    "Diferencia de goles": 1,
+    "Puntos": 6
+  },
+  {
+    "_id": 3,
+    "Posición": 3,
+    "Nombre": "Lanceros",
+    "Partidos jugados": 2,
+    "Goles a favor": 9,
+    "Goles en contra": 8,
+    "Diferencia de goles": 1,
+    "Puntos": 3
+  },
+  {
+    "_id": 4,
+    "Posición": 4,
+    "Nombre": "Los de siempre",
+    "Partidos jugados": 2,
+    "Goles a favor": 8,
+    "Goles en contra": 10,
+    "Diferencia de goles": -2,
+    "Puntos": 3
+  },
+  {
+    "_id": 5,
+    "Posición": 5,
+    "Nombre": "Servilujos",
+    "Partidos jugados": 1,
+    "Goles a favor": 3,
+    "Goles en contra": 5,
+    "Diferencia de goles": -2,
+    "Puntos": 0
+  },
+  {
+    "_id": 6,
+    "Posición": 6,
+    "Nombre": "Simpsons",
+    "Partidos jugados": 1,
+    "Goles a favor": 1,
+    "Goles en contra": 3,
+    "Diferencia de goles": -2,
+    "Puntos": 0
+  },
+  {
+    "_id": 7,
+    "Posición": 7,
+    "Nombre": "Green Star",
+    "Partidos jugados": 1,
+    "Goles a favor": 1,
+    "Goles en contra": 4,
+    "Diferencia de goles": -3,
+    "Puntos": 0
+  },
+  {
+    "_id": 8,
+    "Posición": 8,
+    "Nombre": "Los del Norte",
+    "Partidos jugados": 1,
+    "Goles a favor": 2,
+    "Goles en contra": 5,
+    "Diferencia de goles": -3,
+    "Puntos": 0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "_id": 1,
+    "Partido": "Octavos",
+    "Local": "Lanceros",
+    "Visitante": "Simpsons",
+    "Nombre_Arbitro": "Wilmar Roldán",
+    "Nombre_Arbitro_Mesa": "Sebastián Vela"
+  },
+  {
+    "_id": 2,
+    "Partido": "Octavos",
+    "Local": "Los del Norte",
+    "Visitante": "Los del barrio",
+    "Nombre_Arbitro": "Jhon Perdomo",
+    "Nombre_Arbitro_Mesa": "Hector Zamorano"
+  },
+  {
+    "_id": 3,
+    "Partido": "Octavos",
+    "Local": "TLCR",
+    "Visitante": "Servilujos",
+    "Nombre_Arbitro": "Nicolás Gallo",
+    "Nombre_Arbitro_Mesa": "Sebastián Vela"
+  },
+  {
+    "_id": 4,
+    "Partido": "Octavos",
+    "Local": "Green Star",
+    "Visitante": "Los de siempre",
+    "Nombre_Arbitro": "Carlos Betancur",
+    "Nombre_Arbitro_Mesa": "Hector Zamorano"
+  },
+  {
+    "_id": 5,
+    "Partido": "Semifinal",
+    "Local": "Los del barrio",
+    "Visitante": "Lanceros",
+    "Nombre_Arbitro": "Nicolás Gallo",
+    "Nombre_Arbitro_Mesa": "Sebastián Vela"
+  },
+  {
+    "_id": 6,
+    "Partido": "Semifinal",
+    "Local": "Los de siempre",
+    "Visitante": "TLCR",
+    "Nombre_Arbitro": "Wilmar Roldán",
+    "Nombre_Arbitro_Mesa": "Hector Zamorano"
+  },
+  {
+    "_id": 7,
+    "Partido": "Final",
+    "Local": "TLCR",
+    "Visitante": "Los del barrio",
+    "Nombre_Arbitro": "Carlos Betancur",
+    "Nombre_Arbitro_Mesa": "Sebastián Vela"
+  }
+]

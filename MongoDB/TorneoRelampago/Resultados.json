@@ -1,0 +1,37 @@
+[
+  {
+    "_id": 1,
+    "Partido": "Lanceros vs Simpsons",
+    "Resultado": "3 - 1"
+  },
+  {
+    "_id": 2,
+    "Partido": "Los del Norte vs Los del barrio",
+    "Resultado": "2 - 5"
+  },
+  {
+    "_id": 3,
+    "Partido": "TLCR vs Servilujo",
+    "Resultado": "5 - 3"
+  },
+  {
+    "_id": 4,
+    "Partido": "Green Star vs Los de siempre",
+    "Resultado": "1 - 4"
+  },
+  {
+    "_id": 5,
+    "Partido": "Los del barrio vs Lanceros",
+    "Resultado": "7 - 6"
+  },
+  {
+    "_id": 6,
+    "Partido": "Los de siempre vs TLCR",
+    "Resultado": "4 - 9"
+  },
+  {
+    "_id": 7,
+    "Partido": "TLCR vs Los del barrio",
+    "Resultado": "5 - 2"
+  }
+]

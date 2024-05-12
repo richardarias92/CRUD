@@ -1,0 +1,32 @@
+[
+  {
+    "_id": 1,
+    "Nombre_Arbitro": "Wilmar Roldán",
+    "Posición": "Campo"
+  },
+  {
+    "_id": 2,
+    "Nombre_Arbitro": "Jhon Perdomo",
+    "Posición": "Campo"
+  },
+  {
+    "_id": 3,
+    "Nombre_Arbitro": "Nicolás Gallo",
+    "Posición": "Campo"
+  },
+  {
+    "_id": 4,
+    "Nombre_Arbitro": "Carlos Betancur",
+    "Posición": "Campo"
+  },
+  {
+    "_id": 5,
+    "Nombre_Arbitro": "Sebastián Vela",
+    "Posición": "Mesa"
+  },
+  {
+    "_id": 6,
+    "Nombre_Arbitro": "Hector Zamorano",
+    "Posición": "Mesa"
+  }
+]

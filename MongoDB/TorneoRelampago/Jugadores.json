@@ -1,0 +1,99 @@
+[
+  {
+  "_id": 1,
+  "Equipo": "Lanceros",
+  "Delantero": "Martín Sánchez",
+  "Lateral_Derecho": "Adrián Jiménez",
+  "Lateral_Izquierdo": "Nicolás Guzmán",
+  "Defensa": "Fernando Medina",
+  "Arquero": "Javier Rojas",
+  "Suplente_1": "Mateo Pineda",
+  "Suplente_2": "Carlos Cárdenas",
+  "Suplente_3": "Santiago Rodríguez"
+},
+{
+  "_id": 2,
+  "Equipo": "Los del barrio",
+  "Delantero": "Leonardo Duque",
+  "Lateral_Derecho": "Camilo Quintero",
+  "Lateral_Izquierdo": "Felipe Valencia",
+  "Defensa": "David Ríos",
+  "Arquero": "Juan Pablo Salazar",
+  "Suplente_1": "José Luis Palacios",
+  "Suplente_2": "Andrés Arango",
+  "Suplente_3": "Juan Pablo López",
+  "Suplente_4": "Andrés Pérez"
+},
+{
+  "_id": 3,
+  "Equipo": "Los de siempre",
+  "Delantero": "Gabriel Cardona",
+  "Lateral_Derecho": "Esteban Gallego",
+  "Lateral_Izquierdo": "Mauricio Cifuentes",
+  "Defensa": "Ricardo Giraldo",
+  "Arquero": "Óscar Montoya",
+  "Suplente_1": "Simón Restrepo",
+  "Suplente_2": "Juan Esteban Osorio"
+},
+{
+  "_id": 4,
+  "Equipo": "Simpsons",
+  "Delantero": "Germán Mesa",
+  "Lateral_Derecho": "Mario Góngora",
+  "Lateral_Izquierdo": "Eduardo Suárez",
+  "Defensa": "Víctor Ospina",
+  "Arquero": "Francisco Jaramillo",
+  "Suplente_1": "Nicolás Rojas",
+  "Suplente_2": "Juan Camilo Muñoz",
+  "Suplente_3": "Mateo Villa",
+  "Suplente_4": "Daniel Castro"
+},
+{
+  "_id": 5,
+  "Equipo": "Los del Norte",
+  "Delantero": "Jaime Galindo",
+  "Lateral_Derecho": "Luis Fernando Soto",
+  "Lateral_Izquierdo": "Alejandro Beltrán",
+  "Defensa": "Daniel Córdoba",
+  "Arquero": "Julián Guerra",
+  "Suplente_1": "Sebastián Aguirre",
+  "Suplente_2": "Nicolás Vélez",
+  "Suplente_3": "Dorlan Torres"
+},
+{
+  "_id": 6,
+  "Equipo": "Servilujos",
+  "Delantero": "Diego Alzate",
+  "Lateral_Derecho": "Mateo Gaviria",
+  "Lateral_Izquierdo": "Alejandro Castaño",
+  "Defensa": "Camilo Serrano",
+  "Arquero": "Esteban Ariza",
+  "Suplente_1": "Andrés Marín",
+  "Suplente_2": "Gustavo Franco"
+},
+{
+  "_id": 7,
+  "Equipo": "Green Star",
+  "Delantero": "Ricardo Botero",
+  "Lateral_Derecho": "Juan David López",
+  "Lateral_Izquierdo": "Sergio Mora",
+  "Defensa": "Pablo Molina",
+  "Arquero": "Óscar Soto",
+  "Suplente_1": "Felipe Naranjo",
+  "Suplente_2": "Alberto Rivera",
+  "Suplente_3": "Alejandro Díaz",
+  "Suplente_4":"Ricardo García"
+},
+{
+  "_id": 8,
+  "Equipo": "TLCR",
+  "Delantero": "Carlos Andrés Páez",
+  "Lateral_Derecho": "Juan Sebastián Valencia",
+  "Lateral_Izquierdo": "Manuel Uribe",
+  "Defensa": "Daniel Patiño",
+  "Arquero": "Simón Cárdenas",
+  "Suplente_1": "Jorge Eliécer Torres",
+  "Suplente_2": "Luis Eduardo Alvarado",
+  "Suplente_3": "Guillermo Herrera"
+}
+]
